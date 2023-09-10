@@ -1,0 +1,54 @@
+{
+    "root": {
+        "data": {
+            "id": "cvf647yugts0",
+            "created": 1694342014559,
+            "text": "MainTopic",
+            "resource": []
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cvf64ig7ezc0",
+                    "created": 1694342037377,
+                    "text": "topic",
+                    "priority": "1",
+                    "layout_mind_offset": {
+                        "x": -51,
+                        "y": -179
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cvf67vla97s0",
+                    "created": 1694342301075,
+                    "text": "topic",
+                    "layout_mind_offset": {
+                        "x": -42,
+                        "y": -46
+                    },
+                    "priority": 2
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cvf680usjbc0",
+                    "created": 1694342312533,
+                    "text": "topic",
+                    "layout_mind_offset": {
+                        "x": 423,
+                        "y": 183
+                    },
+                    "priority": 3
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
